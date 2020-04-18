@@ -1,0 +1,16 @@
+{
+    "commandPrefix": "!",
+    "helpText": "You big dumb dumb who mess up command",
+    "answerTextChannels": [
+        "answers-team-swans",
+        "answers-team-emus",
+        "answers-team-ducks",
+        "answers-team-gooses"
+    ],
+    "quizMasterTextChannels": [
+        "marking-room"
+    ],
+    "adminIds": [
+        "108571272362868736"
+    ]
+}
